@@ -1,0 +1,24 @@
+// variables
+$bg-color-white: hsl(0, 4%, 10%);
+$width-50: 50%;
+$height-50: 50vh;
+
+
+/* general */
+@use "../SCSS-partials/base";
+
+
+main {
+  width: 400px;
+  height: $height-50;
+  background-color: hsl(51, 100%, 50%);
+  border-radius: 50px;
+}
+
+/* games container stlyes */
+.games__container {
+  background-color: $bg-color-white;
+  width: $width-50;
+}
+
+

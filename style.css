@@ -1,0 +1,35 @@
+/* general */
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+main,
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #1b1818;
+}
+
+/* general */
+main {
+  width: 400px;
+  height: 50vh;
+  background-color: #ffd900;
+  border-radius: 50px;
+}
+
+/* games container stlyes */
+.games__container {
+  width: 50%;
+}
+
+/*# sourceMappingURL=style.css.map */
