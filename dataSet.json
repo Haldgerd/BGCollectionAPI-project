@@ -1,0 +1,18 @@
+[ 
+  {
+    "data": 1.0
+    ,"author": "Mike Jung"
+    ,"title": "Data set 1"
+    ,"date": "2017-04-18T12:00:00.000Z"
+    ,"type": "module"
+  }
+  , {
+    "data": 1.2
+    ,"author": "Jason Kimble"
+    ,"title": "Data set ver.2"
+    ,"date": "2018-05-25T12:00:00.000Z"
+    ,"type": "module"
+  
+  }
+]
+
